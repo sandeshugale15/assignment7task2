@@ -1,0 +1,56 @@
+.App {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .destinations {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .destination {
+    margin-bottom: 20px;
+  }
+  
+  .contact {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer a {
+    color: #fff;
+    margin-right: 10px;
+  }
+  
